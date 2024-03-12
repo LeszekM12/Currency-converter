@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pl">
+
+<head>
+    <link href="css/style.css" rel="stylesheet">
+    <link href="css/form.css" rel="stylesheet">
+    <script defer src="js/script.js"></script>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap" rel="stylesheet">
+    <title>Kalkulator walut</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css"
+        integrity="sha512-oHDEc8Xed4hiW6CxD7qjbnI+B07vDdX7hEPTvn9pSZO1bcRqHp8mj9pyr+8RVC2GmtEfI2Bi9Ke9Ass0as+zpg=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+</head>
+
+<body class="backgr">
+    <h1>Kalkulator walut</h1>
+    <div class="container">
+        <form class="form js-form">
+            <fieldset class="form__fieldSet">
+                <legend class="form__legend">Kalkulator walut</legend>
+                <p>
+                    <label>
+                        <span class="form__labelText">
+                            Kwota PLN:
+                        </span>
+                        <input class="form__field js-amount" type="number" name="amountEuro" min="0.01" step="any" required>
+                    </label>
+                </p>
+                <p>
+                    <label>
+                        <span class="form__labelText">
+                            Waluta:
+                        </span>
+                        <select name="Waluty" class="form__field js-currency" type="number" name="curency" readonly>
+                            <option value="EURO">EURO</option>
+                            <option value="USD">USD</option>
+                            <option value="GBP">GBP</option>
+                        </select>
+                    </label>
+                </p>
+            </fieldset>
+            <p>
+                <button class="form__button">Przelicz!</button>
+            </p>
+        </form>
+        <p>Wynik PLN: <strong class="js-result">N/a</strong> zł</p>
+    </div>
+</body>
+
+</html>
