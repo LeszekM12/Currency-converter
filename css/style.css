@@ -20,6 +20,7 @@ button {
     max-width: 1000px;
     background-size: cover;
     background-repeat: no-repeat;
+    background-position: left 10% bottom 90%;
     background-image: url("../images/currency.jpg");
 
 }
