@@ -1,7 +1,6 @@
 # Currency Converter
 
-**DEMO** https://leszekm12.github.io/Currency-converter/ 
-https://leszekm12.github.io/Currency-converter/converter.html
+**DEMO** https://leszekm12.github.io/Currency-converter/converter.html
 
 ## **Description:**
 
