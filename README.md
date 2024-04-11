@@ -15,4 +15,4 @@ The currency calculator converts PLN amounts into other currencies at their exch
   + *Media Queries Level 4*
 + Java Script
 
-## **Try [demo of currency-converter](https://leszekm12.github.io/Currency-converter/converter.html)**
+## **Try [demo of currency-converter](<a target="_blank" href="https://leszekm12.github.io/Currency-converter/converter.html")**
