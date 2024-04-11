@@ -6,7 +6,7 @@
 
 The currency calculator converts PLN amounts into other currencies at their exchange rates. My project is based on the [YouCode](https://youcode.pl/frontend-developer/)
 
-### Technologies:
+### **Technologies:**
 + HTML5
 + CSS3
   + *BEM convention*
