@@ -9,7 +9,7 @@ The currency calculator converts PLN amounts into other currencies at their exch
 ### Technologies:
 + HTML5
 + CSS3
-  + BEM convention
+  + *BEM convention*
   + Flex-Box
   + Media Queries Level 4
 + Java Script
