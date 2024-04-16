@@ -1,0 +1,5 @@
+.flex {
+    border: 1px solid darkgray;
+    display: flex;
+    width: auto;
+}
