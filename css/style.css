@@ -20,7 +20,11 @@ button {
     max-width: 1000px;
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: left 10% bottom 90%;
+    background-position: left 10% bottom 100%;
     background-image: url("../images/currency.jpg");
-
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    min-height: 100vh;
 }
