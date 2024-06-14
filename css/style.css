@@ -10,7 +10,7 @@ button {
     cursor: pointer;
   }
 
-.backgr {
+.body {
     background-color: rgb(15, 15, 15);
     color: rgb(241, 239, 239);
     font-family: 'Lato', sans-serif;
