@@ -5,13 +5,13 @@
     const GBP = 5;
     switch (currency) {
       case "EURO":
-        return amount * EURO;
+        return amount / EURO;
 
       case "USD":
-        return amount * USD;
+        return amount / USD;
 
       case "GBP":
-        return amount * GBP;
+        return amount / GBP;
     }
   };
 
