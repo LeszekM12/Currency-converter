@@ -1,6 +1,7 @@
 # Currency Converter
 
 ## **Description:**
+Welcome to my currency converter project that is easy to work with, converts PLN to the other currencies costs. Take a look and try the demo! This app have been wrote in clean JS
 
 The currency calculator converts PLN amounts into other currencies at their exchange rates. My project is based on the [YouCode](https://youcode.pl/frontend-developer/)
 
